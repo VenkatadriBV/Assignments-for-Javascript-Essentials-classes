@@ -1,8 +1,0 @@
-let V = ""
-for (i=1;i<=5;i++)
-{
-  
-     V+="* "
-     
-}
-console.log(V)
