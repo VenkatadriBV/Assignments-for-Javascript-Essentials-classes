@@ -1,3 +1,4 @@
+
 let str = "I dod em bub looo "
 let str1 = "", str2 = ""
   for (t of str) {
